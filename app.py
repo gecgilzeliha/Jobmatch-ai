@@ -144,15 +144,21 @@ def main_app():
             date_filter = st.selectbox("Zaman", ["today", "3days", "week", "month", "all"])
         
         if st.button("🔍 Ara", type="primary"):
+            st.info("🚀 Buton tetiklendi, API'ye gidiliyor...")
             with st.spinner("İş ilanları aranıyor..."):
-                jobs = api_client.search_jobs(
-                    query=search_query,
-                    location=location,
-                    num_pages=1,
-                    date_posted=date_filter
-                )
-                st.session_state.jobs_cache = jobs
-        
+                try:
+                    jobs = api_client.search_jobs(
+                        query=search_query,
+                        location=location,
+                        num_pages=1,
+                        date_posted=date_filter
+                    )
+                    st.session_state.jobs_cache = jobs
+                    if not jobs:
+                        st.warning("⚠️ API'den boş liste döndü. Anahtarını kontrol et!")
+                except Exception as e:
+                    st.error(f"❌ API Hatası: {e}")
+                    
         if st.session_state.jobs_cache:
             st.success(f"✅ {len(st.session_state.jobs_cache)} ilan bulundu!")
             
