@@ -52,8 +52,9 @@ class JSearchClient:
         }
         
         # Eğer location belirtildiyse ekle
-        if location:
-            params["query"] = f"{query} in {location}"
+        # if location:
+        # params["query"] = f"{query} in {location}"
+       params["query"] = query
         
         try:
             response = requests.get(url, headers=self.headers, params=params)
