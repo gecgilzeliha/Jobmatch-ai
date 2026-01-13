@@ -25,7 +25,7 @@ class JSearchClient:
             data = response.json()
             return [self._format_job(job) for job in data.get("data", [])]
         except Exception as e:
-            print(f"API Hatası: {e}")
+            print(f"API Hatasi: {e}")
             return []
 
     def _format_job(self, raw_job):
