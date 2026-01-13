@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "J001",
+    "title": "Çeviri - Ulus",
+    "category": "Çeviri",
+    "description": "Çeviri pozisyonu için eleman aranıyor. Ulus, Ankara bölgesinde.",
+    "company": "Firma Z",
+    "city": "Ankara",
+    "district": "Ulus",
+    "location": {
+      "lat": 39.91625150226219,
+      "lon": 32.841182426032276
+    },
+    "required_skills": [
+      "İngilizce",
+      "Almanca"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "1 hafta",
+    "start_date": "2026-01-09",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 3.9,
+    "applicant_count": 19
+  },
+  {
+    "id": "J002",
+    "title": "Eğitmenlik - Ulus",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Ulus, Ankara bölgesinde.",
+    "company": "Firma X",
+    "city": "Ankara",
+    "district": "Ulus",
+    "location": {
+      "lat": 39.985856356722685,
+      "lon": 32.92840146744648
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "09:00-17:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-12",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 4.1,
+    "applicant_count": 2
+  },
+  {
+    "id": "J003",
+    "title": "Anket Görevlisi - Osmangazi",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Osmangazi, Bursa bölgesinde.",
+    "company": "Firma Y",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 40.01130709439492,
+      "lon": 32.93402403058743
+    },
+    "required_skills": [
+      "Muhasebe",
+      "İletişim"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-14",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 4.1,
+    "applicant_count": 13
+  },
+  {
+    "id": "J004",
+    "title": "Garsonluk - Şişli",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Şişli, İstanbul bölgesinde.",
+    "company": "Firma Y",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "location": {
+      "lat": 40.92471130366456,
+      "lon": 28.879519894453658
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "Esnek",
+    "duration": "1 hafta",
+    "start_date": "2026-02-04",
+    "posted_date": "2026-01-01",
+    "is_active": true,
+    "employer_rating": 4.5,
+    "applicant_count": 1
+  },
+  {
+    "id": "J005",
+    "title": "Veri Girişi - Keçiören",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Keçiören, Ankara bölgesinde.",
+    "company": "Firma C",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 40.01590331226079,
+      "lon": 32.94762328239839
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-02-01",
+    "posted_date": "2026-01-05",
+    "is_active": true,
+    "employer_rating": 3.2,
+    "applicant_count": 2
+  },
+  {
+    "id": "J006",
+    "title": "Eğitmenlik - Nilüfer",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma X",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.87835831235671,
+      "lon": 32.789237318570166
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-31",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 3.4,
+    "applicant_count": 10
+  },
+  {
+    "id": "J007",
+    "title": "Garsonluk - Kepez",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma B",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.8343415051943,
+      "lon": 32.79626545491235
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-29",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 4.8,
+    "applicant_count": 10
+  },
+  {
+    "id": "J008",
+    "title": "Garsonluk - Kepez",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma Z",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.84715056003035,
+      "lon": 32.906249736713235
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "Sürekli",
+    "start_date": "2026-02-02",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 4.3,
+    "applicant_count": 3
+  },
+  {
+    "id": "J009",
+    "title": "Asistanlık - Kepez",
+    "category": "Asistanlık",
+    "description": "Asistanlık pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma Z",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 40.017685530061,
+      "lon": 32.89283838130187
+    },
+    "required_skills": [
+      "Veri Analizi",
+      "İngilizce"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-01-10",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 3.9,
+    "applicant_count": 0
+  },
+  {
+    "id": "J010",
+    "title": "Eğitmenlik - Osmangazi",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Osmangazi, Bursa bölgesinde.",
+    "company": "Firma Y",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 39.86811056153456,
+      "lon": 32.88459031733649
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-24",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 4.3,
+    "applicant_count": 9
+  },
+  {
+    "id": "J011",
+    "title": "Sosyal Medya Yönetimi - Muratpaşa",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma B",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.87619552300229,
+      "lon": 32.95385501220846
+    },
+    "required_skills": [
+      "Organizasyon",
+      "Muhasebe"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "09:00-17:00",
+    "duration": "1 ay",
+    "start_date": "2026-02-07",
+    "posted_date": "2026-01-01",
+    "is_active": false,
+    "employer_rating": 3.5,
+    "applicant_count": 18
+  },
+  {
+    "id": "J012",
+    "title": "Garsonluk - Konyaaltı",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Konyaaltı, Antalya bölgesinde.",
+    "company": "Firma C",
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "location": {
+      "lat": 39.86591689604672,
+      "lon": 32.87798306067993
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-14",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 4.6,
+    "applicant_count": 10
+  },
+  {
+    "id": "J013",
+    "title": "Asistanlık - Bakırköy",
+    "category": "Asistanlık",
+    "description": "Asistanlık pozisyonu için eleman aranıyor. Bakırköy, İstanbul bölgesinde.",
+    "company": "Firma Y",
+    "city": "İstanbul",
+    "district": "Bakırköy",
+    "location": {
+      "lat": 41.02616942965144,
+      "lon": 28.9424288277447
+    },
+    "required_skills": [
+      "Organizasyon",
+      "Sosyal Medya"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "Esnek",
+    "duration": "Sürekli",
+    "start_date": "2026-01-14",
+    "posted_date": "2026-01-01",
+    "is_active": true,
+    "employer_rating": 4.7,
+    "applicant_count": 18
+  },
+  {
+    "id": "J014",
+    "title": "Eğitmenlik - Kızılay",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Kızılay, Ankara bölgesinde.",
+    "company": "Firma C",
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 40.01586573657471,
+      "lon": 32.86249076460836
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-27",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 3.8,
+    "applicant_count": 6
+  },
+  {
+    "id": "J015",
+    "title": "Grafik Tasarım - Alsancak",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Alsancak, İzmir bölgesinde.",
+    "company": "Firma A",
+    "city": "İzmir",
+    "district": "Alsancak",
+    "location": {
+      "lat": 40.00050419974704,
+      "lon": 32.95630666930376
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "10:00-18:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-19",
+    "posted_date": "2026-01-01",
+    "is_active": true,
+    "employer_rating": 4.7,
+    "applicant_count": 0
+  },
+  {
+    "id": "J016",
+    "title": "Eğitmenlik - Şişli",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Şişli, İstanbul bölgesinde.",
+    "company": "Firma Z",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "location": {
+      "lat": 41.05874781777392,
+      "lon": 29.07376613058308
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "09:00-17:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-31",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 4.9,
+    "applicant_count": 9
+  },
+  {
+    "id": "J017",
+    "title": "Satış Danışmanı - Beşiktaş",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma Y",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 40.937111356591814,
+      "lon": 29.005449505740145
+    },
+    "required_skills": [
+      "Video Editing",
+      "Java"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-02-05",
+    "posted_date": "2026-01-05",
+    "is_active": true,
+    "employer_rating": 4.2,
+    "applicant_count": 18
+  },
+  {
+    "id": "J018",
+    "title": "Veri Girişi - Karşıyaka",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Karşıyaka, İzmir bölgesinde.",
+    "company": "Firma A",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.985902170689215,
+      "lon": 32.9521007696118
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-10",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 5.0,
+    "applicant_count": 8
+  },
+  {
+    "id": "J019",
+    "title": "Satış Danışmanı - Nilüfer",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma Y",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.90114412463491,
+      "lon": 32.955730421260185
+    },
+    "required_skills": [
+      "Video Editing",
+      "Almanca"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "14:00-22:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-17",
+    "posted_date": "2026-01-08",
+    "is_active": true,
+    "employer_rating": 4.0,
+    "applicant_count": 17
+  },
+  {
+    "id": "J020",
+    "title": "Eğitmenlik - Kadıköy",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma B",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 40.99116125902398,
+      "lon": 29.026591000438156
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "1 ay",
+    "start_date": "2026-01-24",
+    "posted_date": "2026-01-03",
+    "is_active": true,
+    "employer_rating": 4.0,
+    "applicant_count": 18
+  },
+  {
+    "id": "J021",
+    "title": "Anket Görevlisi - Keçiören",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Keçiören, Ankara bölgesinde.",
+    "company": "Firma Y",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.93814079893661,
+      "lon": 32.86830322299501
+    },
+    "required_skills": [
+      "Video Editing",
+      "Java"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "Esnek",
+    "duration": "1 ay",
+    "start_date": "2026-02-03",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 4.4,
+    "applicant_count": 2
+  },
+  {
+    "id": "J022",
+    "title": "Kurye - Kadıköy",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma Z",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 40.92374798434083,
+      "lon": 28.93369806558475
+    },
+    "required_skills": [
+      "Muhasebe",
+      "Excel"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "1 ay",
+    "start_date": "2026-01-26",
+    "posted_date": "2026-01-01",
+    "is_active": false,
+    "employer_rating": 3.2,
+    "applicant_count": 12
+  },
+  {
+    "id": "J023",
+    "title": "Veri Girişi - Üsküdar",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Üsküdar, İstanbul bölgesinde.",
+    "company": "Firma B",
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "location": {
+      "lat": 40.93490404801496,
+      "lon": 28.91111175755694
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "09:00-17:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-30",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 3.3,
+    "applicant_count": 4
+  },
+  {
+    "id": "J024",
+    "title": "Satış Danışmanı - Üsküdar",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Üsküdar, İstanbul bölgesinde.",
+    "company": "Firma A",
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "location": {
+      "lat": 40.992195575404224,
+      "lon": 28.96741811044796
+    },
+    "required_skills": [
+      "Photoshop",
+      "Java"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "1 hafta",
+    "start_date": "2026-01-28",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 4.9,
+    "applicant_count": 8
+  },
+  {
+    "id": "J025",
+    "title": "Grafik Tasarım - Çankaya",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Çankaya, Ankara bölgesinde.",
+    "company": "Firma Y",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 39.97702107841102,
+      "lon": 32.944432468726156
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-13",
+    "posted_date": "2026-01-07",
+    "is_active": true,
+    "employer_rating": 4.2,
+    "applicant_count": 14
+  },
+  {
+    "id": "J026",
+    "title": "Veri Girişi - Osmangazi",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Osmangazi, Bursa bölgesinde.",
+    "company": "Firma B",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 39.96888440221555,
+      "lon": 32.89802979598521
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "09:00-17:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-22",
+    "posted_date": "2026-01-03",
+    "is_active": false,
+    "employer_rating": 4.2,
+    "applicant_count": 9
+  },
+  {
+    "id": "J027",
+    "title": "Anket Görevlisi - Nilüfer",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma C",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.97448585279822,
+      "lon": 32.89442831649573
+    },
+    "required_skills": [
+      "Grafik Tasarım",
+      "Sosyal Medya"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "14:00-22:00",
+    "duration": "1 hafta",
+    "start_date": "2026-02-07",
+    "posted_date": "2026-01-04",
+    "is_active": false,
+    "employer_rating": 4.1,
+    "applicant_count": 8
+  },
+  {
+    "id": "J028",
+    "title": "Satış Danışmanı - Osmangazi",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Osmangazi, Bursa bölgesinde.",
+    "company": "Firma C",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 39.836108580682776,
+      "lon": 32.89827229394657
+    },
+    "required_skills": [
+      "Satış",
+      "Sosyal Medya"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-02-04",
+    "posted_date": "2025-12-29",
+    "is_active": false,
+    "employer_rating": 4.1,
+    "applicant_count": 1
+  },
+  {
+    "id": "J029",
+    "title": "Anket Görevlisi - Muratpaşa",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma Z",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.85000283146179,
+      "lon": 32.78687904972866
+    },
+    "required_skills": [
+      "Excel",
+      "Photoshop"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-25",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 4.2,
+    "applicant_count": 19
+  },
+  {
+    "id": "J030",
+    "title": "Grafik Tasarım - Kepez",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma Z",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 40.00015959316643,
+      "lon": 32.77073663065485
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-01-22",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 3.5,
+    "applicant_count": 8
+  },
+  {
+    "id": "J031",
+    "title": "Eğitmenlik - Çankaya",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Çankaya, Ankara bölgesinde.",
+    "company": "Firma C",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 39.96297680483078,
+      "lon": 32.89669735168123
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-30",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 4.6,
+    "applicant_count": 3
+  },
+  {
+    "id": "J032",
+    "title": "Asistanlık - Kızılay",
+    "category": "Asistanlık",
+    "description": "Asistanlık pozisyonu için eleman aranıyor. Kızılay, Ankara bölgesinde.",
+    "company": "Firma B",
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 40.01495383891415,
+      "lon": 32.85463787647232
+    },
+    "required_skills": [
+      "Photoshop",
+      "İngilizce"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "09:00-17:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-10",
+    "posted_date": "2026-01-01",
+    "is_active": true,
+    "employer_rating": 4.1,
+    "applicant_count": 18
+  },
+  {
+    "id": "J033",
+    "title": "Sosyal Medya Yönetimi - Beşiktaş",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma A",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 41.05177566599789,
+      "lon": 28.993960436089417
+    },
+    "required_skills": [
+      "Muhasebe",
+      "Photoshop"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-30",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 3.7,
+    "applicant_count": 9
+  },
+  {
+    "id": "J034",
+    "title": "Çeviri - Bakırköy",
+    "category": "Çeviri",
+    "description": "Çeviri pozisyonu için eleman aranıyor. Bakırköy, İstanbul bölgesinde.",
+    "company": "Firma Y",
+    "city": "İstanbul",
+    "district": "Bakırköy",
+    "location": {
+      "lat": 40.92108062002879,
+      "lon": 28.97385534869179
+    },
+    "required_skills": [
+      "İngilizce",
+      "Almanca"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "1 ay",
+    "start_date": "2026-02-01",
+    "posted_date": "2026-01-04",
+    "is_active": false,
+    "employer_rating": 4.2,
+    "applicant_count": 16
+  },
+  {
+    "id": "J035",
+    "title": "Grafik Tasarım - Osmangazi",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Osmangazi, Bursa bölgesinde.",
+    "company": "Firma Z",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 39.84591607830963,
+      "lon": 32.88516655490585
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-02-01",
+    "posted_date": "2026-01-07",
+    "is_active": true,
+    "employer_rating": 3.2,
+    "applicant_count": 1
+  },
+  {
+    "id": "J036",
+    "title": "Garsonluk - Muratpaşa",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma Y",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.957974138222674,
+      "lon": 32.94713763859006
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-01-15",
+    "posted_date": "2025-12-31",
+    "is_active": true,
+    "employer_rating": 3.2,
+    "applicant_count": 18
+  },
+  {
+    "id": "J037",
+    "title": "Anket Görevlisi - Keçiören",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Keçiören, Ankara bölgesinde.",
+    "company": "Firma Z",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.83934862454429,
+      "lon": 32.764302735966524
+    },
+    "required_skills": [
+      "Satış",
+      "Photoshop"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "Sürekli",
+    "start_date": "2026-01-11",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 4.7,
+    "applicant_count": 6
+  },
+  {
+    "id": "J038",
+    "title": "Veri Girişi - Kadıköy",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma A",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 40.92293706273066,
+      "lon": 28.997091997495076
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "Esnek",
+    "duration": "Sürekli",
+    "start_date": "2026-01-18",
+    "posted_date": "2025-12-29",
+    "is_active": false,
+    "employer_rating": 3.7,
+    "applicant_count": 16
+  },
+  {
+    "id": "J039",
+    "title": "Satış Danışmanı - Konak",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Konak, İzmir bölgesinde.",
+    "company": "Firma X",
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.92102934206287,
+      "lon": 32.8666889487148
+    },
+    "required_skills": [
+      "Python",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "09:00-17:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-30",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 3.3,
+    "applicant_count": 11
+  },
+  {
+    "id": "J040",
+    "title": "Kurye - Muratpaşa",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma X",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.99752120973043,
+      "lon": 32.865124083919895
+    },
+    "required_skills": [
+      "Python",
+      "Sosyal Medya"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-02-07",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 3.5,
+    "applicant_count": 9
+  },
+  {
+    "id": "J041",
+    "title": "Veri Girişi - Yıldırım",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Yıldırım, Bursa bölgesinde.",
+    "company": "Firma Z",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.84815569930185,
+      "lon": 32.93991142985461
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-19",
+    "posted_date": "2026-01-08",
+    "is_active": false,
+    "employer_rating": 3.3,
+    "applicant_count": 9
+  },
+  {
+    "id": "J042",
+    "title": "Sosyal Medya Yönetimi - Keçiören",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Keçiören, Ankara bölgesinde.",
+    "company": "Firma Y",
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.95774545094573,
+      "lon": 32.80660134739749
+    },
+    "required_skills": [
+      "Almanca",
+      "Photoshop"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "09:00-17:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-22",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 4.5,
+    "applicant_count": 14
+  },
+  {
+    "id": "J043",
+    "title": "Anket Görevlisi - Karşıyaka",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Karşıyaka, İzmir bölgesinde.",
+    "company": "Firma C",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.85777548946871,
+      "lon": 32.782527523985976
+    },
+    "required_skills": [
+      "Organizasyon",
+      "Almanca"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "Esnek",
+    "duration": "Sürekli",
+    "start_date": "2026-02-02",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 4.5,
+    "applicant_count": 4
+  },
+  {
+    "id": "J044",
+    "title": "Çeviri - Konak",
+    "category": "Çeviri",
+    "description": "Çeviri pozisyonu için eleman aranıyor. Konak, İzmir bölgesinde.",
+    "company": "Firma B",
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.91254933905908,
+      "lon": 32.7659189706412
+    },
+    "required_skills": [
+      "İngilizce",
+      "Almanca"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-01-30",
+    "posted_date": "2026-01-08",
+    "is_active": false,
+    "employer_rating": 4.8,
+    "applicant_count": 9
+  },
+  {
+    "id": "J045",
+    "title": "Grafik Tasarım - Karşıyaka",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Karşıyaka, İzmir bölgesinde.",
+    "company": "Firma Y",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.91658898541419,
+      "lon": 32.91308488360407
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "Esnek",
+    "duration": "1 ay",
+    "start_date": "2026-01-30",
+    "posted_date": "2025-12-29",
+    "is_active": false,
+    "employer_rating": 4.2,
+    "applicant_count": 11
+  },
+  {
+    "id": "J046",
+    "title": "Grafik Tasarım - Kadıköy",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma Y",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 41.10182879166901,
+      "lon": 29.040880881502414
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "Esnek",
+    "duration": "1 hafta",
+    "start_date": "2026-02-02",
+    "posted_date": "2026-01-03",
+    "is_active": true,
+    "employer_rating": 4.6,
+    "applicant_count": 18
+  },
+  {
+    "id": "J047",
+    "title": "Çeviri - Karşıyaka",
+    "category": "Çeviri",
+    "description": "Çeviri pozisyonu için eleman aranıyor. Karşıyaka, İzmir bölgesinde.",
+    "company": "Firma C",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.84134735880352,
+      "lon": 32.95492382461143
+    },
+    "required_skills": [
+      "İngilizce",
+      "Almanca"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-21",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 3.2,
+    "applicant_count": 15
+  },
+  {
+    "id": "J048",
+    "title": "Anket Görevlisi - Nilüfer",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma B",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.834335491877724,
+      "lon": 32.84543805259494
+    },
+    "required_skills": [
+      "Java",
+      "İngilizce"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-20",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 3.9,
+    "applicant_count": 13
+  },
+  {
+    "id": "J049",
+    "title": "Veri Girişi - Yıldırım",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Yıldırım, Bursa bölgesinde.",
+    "company": "Firma Y",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.84922713573505,
+      "lon": 32.81389896794727
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-16",
+    "posted_date": "2026-01-01",
+    "is_active": true,
+    "employer_rating": 4.7,
+    "applicant_count": 1
+  },
+  {
+    "id": "J050",
+    "title": "Kurye - Muratpaşa",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma B",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.92030250385671,
+      "lon": 32.78967168663147
+    },
+    "required_skills": [
+      "Sosyal Medya",
+      "Satış"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "1 ay",
+    "start_date": "2026-02-05",
+    "posted_date": "2026-01-07",
+    "is_active": true,
+    "employer_rating": 3.5,
+    "applicant_count": 6
+  },
+  {
+    "id": "J051",
+    "title": "Eğitmenlik - Kepez",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma A",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 40.023581805415766,
+      "lon": 32.84311824634133
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "Esnek",
+    "duration": "1 ay",
+    "start_date": "2026-01-14",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 4.9,
+    "applicant_count": 8
+  },
+  {
+    "id": "J052",
+    "title": "Satış Danışmanı - Konyaaltı",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Konyaaltı, Antalya bölgesinde.",
+    "company": "Firma A",
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "location": {
+      "lat": 39.87356953016235,
+      "lon": 32.88577276535344
+    },
+    "required_skills": [
+      "Java",
+      "İletişim"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-31",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 3.1,
+    "applicant_count": 2
+  },
+  {
+    "id": "J053",
+    "title": "Satış Danışmanı - Çankaya",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Çankaya, Ankara bölgesinde.",
+    "company": "Firma Z",
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 39.905243531989676,
+      "lon": 32.86685246846862
+    },
+    "required_skills": [
+      "Veri Analizi",
+      "Almanca"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-29",
+    "posted_date": "2025-12-31",
+    "is_active": false,
+    "employer_rating": 4.9,
+    "applicant_count": 1
+  },
+  {
+    "id": "J054",
+    "title": "Sosyal Medya Yönetimi - Şişli",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Şişli, İstanbul bölgesinde.",
+    "company": "Firma A",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "location": {
+      "lat": 40.95785998516637,
+      "lon": 28.93981113791528
+    },
+    "required_skills": [
+      "Satış",
+      "Muhasebe"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-31",
+    "posted_date": "2026-01-02",
+    "is_active": false,
+    "employer_rating": 3.7,
+    "applicant_count": 13
+  },
+  {
+    "id": "J055",
+    "title": "Veri Girişi - Osmangazi",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Osmangazi, Bursa bölgesinde.",
+    "company": "Firma X",
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 39.853041535966724,
+      "lon": 32.88530336996462
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-01-10",
+    "posted_date": "2025-12-31",
+    "is_active": true,
+    "employer_rating": 3.5,
+    "applicant_count": 7
+  },
+  {
+    "id": "J056",
+    "title": "Eğitmenlik - Yıldırım",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Yıldırım, Bursa bölgesinde.",
+    "company": "Firma Y",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.95073400262776,
+      "lon": 32.76054088658607
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "09:00-17:00",
+    "duration": "1 gün",
+    "start_date": "2026-02-02",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 3.6,
+    "applicant_count": 17
+  },
+  {
+    "id": "J057",
+    "title": "Veri Girişi - Konak",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Konak, İzmir bölgesinde.",
+    "company": "Firma Y",
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.90493480131639,
+      "lon": 32.87953255677285
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "09:00-17:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-10",
+    "posted_date": "2025-12-31",
+    "is_active": true,
+    "employer_rating": 3.3,
+    "applicant_count": 4
+  },
+  {
+    "id": "J058",
+    "title": "Veri Girişi - Kadıköy",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma X",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 41.080654302449965,
+      "lon": 28.967549423408578
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-26",
+    "posted_date": "2026-01-03",
+    "is_active": true,
+    "employer_rating": 3.1,
+    "applicant_count": 13
+  },
+  {
+    "id": "J059",
+    "title": "Satış Danışmanı - Karşıyaka",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Karşıyaka, İzmir bölgesinde.",
+    "company": "Firma C",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.96563455149053,
+      "lon": 32.80013861993831
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "14:00-22:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-22",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 3.2,
+    "applicant_count": 1
+  },
+  {
+    "id": "J060",
+    "title": "Asistanlık - Konak",
+    "category": "Asistanlık",
+    "description": "Asistanlık pozisyonu için eleman aranıyor. Konak, İzmir bölgesinde.",
+    "company": "Firma Z",
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.873231504171656,
+      "lon": 32.93929386187164
+    },
+    "required_skills": [
+      "Veri Analizi",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-25",
+    "posted_date": "2026-01-08",
+    "is_active": true,
+    "employer_rating": 3.9,
+    "applicant_count": 7
+  },
+  {
+    "id": "J061",
+    "title": "Satış Danışmanı - Karşıyaka",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Karşıyaka, İzmir bölgesinde.",
+    "company": "Firma B",
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.95323596118687,
+      "lon": 32.956794300559345
+    },
+    "required_skills": [
+      "İletişim",
+      "Python"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-19",
+    "posted_date": "2026-01-02",
+    "is_active": false,
+    "employer_rating": 3.1,
+    "applicant_count": 6
+  },
+  {
+    "id": "J062",
+    "title": "Garsonluk - Yıldırım",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Yıldırım, Bursa bölgesinde.",
+    "company": "Firma Z",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.91841994177505,
+      "lon": 32.82058373466504
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-02-05",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 5.0,
+    "applicant_count": 15
+  },
+  {
+    "id": "J063",
+    "title": "Veri Girişi - Alsancak",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Alsancak, İzmir bölgesinde.",
+    "company": "Firma X",
+    "city": "İzmir",
+    "district": "Alsancak",
+    "location": {
+      "lat": 39.880429535095985,
+      "lon": 32.91011885676226
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "Esnek",
+    "duration": "Sürekli",
+    "start_date": "2026-01-26",
+    "posted_date": "2026-01-05",
+    "is_active": true,
+    "employer_rating": 4.7,
+    "applicant_count": 17
+  },
+  {
+    "id": "J064",
+    "title": "Asistanlık - Muratpaşa",
+    "category": "Asistanlık",
+    "description": "Asistanlık pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma Y",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.96272973347495,
+      "lon": 32.83846161538072
+    },
+    "required_skills": [
+      "Sosyal Medya",
+      "Python"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "09:00-17:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-19",
+    "posted_date": "2025-12-31",
+    "is_active": false,
+    "employer_rating": 3.2,
+    "applicant_count": 7
+  },
+  {
+    "id": "J065",
+    "title": "Asistanlık - Muratpaşa",
+    "category": "Asistanlık",
+    "description": "Asistanlık pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma Z",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.89438035561307,
+      "lon": 32.88848196245822
+    },
+    "required_skills": [
+      "Organizasyon",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-19",
+    "posted_date": "2025-12-31",
+    "is_active": true,
+    "employer_rating": 5.0,
+    "applicant_count": 3
+  },
+  {
+    "id": "J066",
+    "title": "Kurye - Yıldırım",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Yıldırım, Bursa bölgesinde.",
+    "company": "Firma B",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.94218887388395,
+      "lon": 32.95302528116923
+    },
+    "required_skills": [
+      "Organizasyon",
+      "Muhasebe"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "09:00-17:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-18",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 3.9,
+    "applicant_count": 18
+  },
+  {
+    "id": "J067",
+    "title": "Satış Danışmanı - Bornova",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Bornova, İzmir bölgesinde.",
+    "company": "Firma C",
+    "city": "İzmir",
+    "district": "Bornova",
+    "location": {
+      "lat": 40.00136966136633,
+      "lon": 32.77247290525356
+    },
+    "required_skills": [
+      "Almanca",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-02-05",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 3.1,
+    "applicant_count": 8
+  },
+  {
+    "id": "J068",
+    "title": "Sosyal Medya Yönetimi - Yıldırım",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Yıldırım, Bursa bölgesinde.",
+    "company": "Firma Z",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.89642966169668,
+      "lon": 32.821087017379476
+    },
+    "required_skills": [
+      "İletişim",
+      "Satış"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-01-28",
+    "posted_date": "2025-12-30",
+    "is_active": false,
+    "employer_rating": 4.3,
+    "applicant_count": 2
+  },
+  {
+    "id": "J069",
+    "title": "Satış Danışmanı - Kadıköy",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma B",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 40.968905515443645,
+      "lon": 29.031495957243454
+    },
+    "required_skills": [
+      "Grafik Tasarım",
+      "Video Editing"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-29",
+    "posted_date": "2025-12-31",
+    "is_active": true,
+    "employer_rating": 4.4,
+    "applicant_count": 5
+  },
+  {
+    "id": "J070",
+    "title": "Çeviri - Beşiktaş",
+    "category": "Çeviri",
+    "description": "Çeviri pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma A",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 40.996544342709704,
+      "lon": 28.91657889590525
+    },
+    "required_skills": [
+      "İngilizce",
+      "Almanca"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-29",
+    "posted_date": "2026-01-04",
+    "is_active": false,
+    "employer_rating": 4.1,
+    "applicant_count": 1
+  },
+  {
+    "id": "J071",
+    "title": "Kurye - Beşiktaş",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma Y",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 40.9248183138763,
+      "lon": 29.05208211329616
+    },
+    "required_skills": [
+      "Muhasebe",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "10:00-18:00",
+    "duration": "1 hafta",
+    "start_date": "2026-02-01",
+    "posted_date": "2025-12-31",
+    "is_active": true,
+    "employer_rating": 3.3,
+    "applicant_count": 1
+  },
+  {
+    "id": "J072",
+    "title": "Grafik Tasarım - Ulus",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Ulus, Ankara bölgesinde.",
+    "company": "Firma B",
+    "city": "Ankara",
+    "district": "Ulus",
+    "location": {
+      "lat": 39.911415865621436,
+      "lon": 32.85839500167515
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-23",
+    "posted_date": "2026-01-05",
+    "is_active": true,
+    "employer_rating": 4.9,
+    "applicant_count": 14
+  },
+  {
+    "id": "J073",
+    "title": "Veri Girişi - Şişli",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Şişli, İstanbul bölgesinde.",
+    "company": "Firma A",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "location": {
+      "lat": 41.01951751745554,
+      "lon": 28.93296608389289
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "09:00-17:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-28",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 4.0,
+    "applicant_count": 16
+  },
+  {
+    "id": "J074",
+    "title": "Sosyal Medya Yönetimi - Konak",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Konak, İzmir bölgesinde.",
+    "company": "Firma Y",
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.96318284692411,
+      "lon": 32.76280969387067
+    },
+    "required_skills": [
+      "Müşteri Hizmetleri",
+      "Photoshop"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "10:00-18:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-28",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 3.7,
+    "applicant_count": 19
+  },
+  {
+    "id": "J075",
+    "title": "Anket Görevlisi - Kepez",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma B",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.96483316135227,
+      "lon": 32.87759331427577
+    },
+    "required_skills": [
+      "Java",
+      "Muhasebe"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-16",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 4.6,
+    "applicant_count": 14
+  },
+  {
+    "id": "J076",
+    "title": "Veri Girişi - Kadıköy",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma Z",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 41.04948691250237,
+      "lon": 29.07550652201688
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "09:00-17:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-17",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 4.1,
+    "applicant_count": 11
+  },
+  {
+    "id": "J077",
+    "title": "Kurye - Beşiktaş",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma Z",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 40.993554297740765,
+      "lon": 29.00565513148206
+    },
+    "required_skills": [
+      "Muhasebe",
+      "Python"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-09",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 3.9,
+    "applicant_count": 2
+  },
+  {
+    "id": "J078",
+    "title": "Grafik Tasarım - Nilüfer",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma B",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.90772047217835,
+      "lon": 32.79949566072059
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-29",
+    "posted_date": "2026-01-07",
+    "is_active": true,
+    "employer_rating": 3.4,
+    "applicant_count": 20
+  },
+  {
+    "id": "J079",
+    "title": "Anket Görevlisi - Kepez",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma X",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.941218150681834,
+      "lon": 32.83741370239982
+    },
+    "required_skills": [
+      "İngilizce",
+      "Sosyal Medya"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "Esnek",
+    "duration": "1 ay",
+    "start_date": "2026-01-18",
+    "posted_date": "2026-01-03",
+    "is_active": true,
+    "employer_rating": 4.9,
+    "applicant_count": 9
+  },
+  {
+    "id": "J080",
+    "title": "Satış Danışmanı - Bornova",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Bornova, İzmir bölgesinde.",
+    "company": "Firma X",
+    "city": "İzmir",
+    "district": "Bornova",
+    "location": {
+      "lat": 40.02641529312053,
+      "lon": 32.863564936413354
+    },
+    "required_skills": [
+      "Sosyal Medya",
+      "Photoshop"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-28",
+    "posted_date": "2026-01-01",
+    "is_active": true,
+    "employer_rating": 3.3,
+    "applicant_count": 0
+  },
+  {
+    "id": "J081",
+    "title": "Kurye - Kızılay",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Kızılay, Ankara bölgesinde.",
+    "company": "Firma B",
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 39.850138991490304,
+      "lon": 32.791921503050396
+    },
+    "required_skills": [
+      "Sosyal Medya",
+      "Video Editing"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-23",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 4.0,
+    "applicant_count": 10
+  },
+  {
+    "id": "J082",
+    "title": "Garsonluk - Beşiktaş",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma X",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 41.02625186122235,
+      "lon": 28.93331542677098
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "10:00-18:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-30",
+    "posted_date": "2025-12-31",
+    "is_active": true,
+    "employer_rating": 4.4,
+    "applicant_count": 19
+  },
+  {
+    "id": "J083",
+    "title": "Veri Girişi - Nilüfer",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma Y",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.859115809687864,
+      "lon": 32.88182316067305
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-26",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 4.2,
+    "applicant_count": 3
+  },
+  {
+    "id": "J084",
+    "title": "Anket Görevlisi - Kepez",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma Y",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.859639026506635,
+      "lon": 32.89769185598553
+    },
+    "required_skills": [
+      "Grafik Tasarım",
+      "Almanca"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "09:00-17:00",
+    "duration": "1 hafta",
+    "start_date": "2026-02-02",
+    "posted_date": "2026-01-03",
+    "is_active": true,
+    "employer_rating": 4.0,
+    "applicant_count": 3
+  },
+  {
+    "id": "J085",
+    "title": "Anket Görevlisi - Kadıköy",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Kadıköy, İstanbul bölgesinde.",
+    "company": "Firma C",
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 41.03677892661302,
+      "lon": 29.039163889029556
+    },
+    "required_skills": [
+      "Photoshop",
+      "İngilizce"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "09:00-17:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-29",
+    "posted_date": "2025-12-30",
+    "is_active": false,
+    "employer_rating": 4.1,
+    "applicant_count": 12
+  },
+  {
+    "id": "J086",
+    "title": "Eğitmenlik - Üsküdar",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Üsküdar, İstanbul bölgesinde.",
+    "company": "Firma C",
+    "city": "İstanbul",
+    "district": "Üsküdar",
+    "location": {
+      "lat": 41.016663479017666,
+      "lon": 29.071872783327404
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "Esnek",
+    "duration": "1 ay",
+    "start_date": "2026-01-29",
+    "posted_date": "2025-12-29",
+    "is_active": true,
+    "employer_rating": 3.7,
+    "applicant_count": 6
+  },
+  {
+    "id": "J087",
+    "title": "Kurye - Bornova",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Bornova, İzmir bölgesinde.",
+    "company": "Firma Z",
+    "city": "İzmir",
+    "district": "Bornova",
+    "location": {
+      "lat": 40.01188396191595,
+      "lon": 32.94866298117365
+    },
+    "required_skills": [
+      "İngilizce",
+      "Java"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-30",
+    "posted_date": "2026-01-05",
+    "is_active": false,
+    "employer_rating": 3.1,
+    "applicant_count": 18
+  },
+  {
+    "id": "J088",
+    "title": "Veri Girişi - Alsancak",
+    "category": "Veri Girişi",
+    "description": "Veri Girişi pozisyonu için eleman aranıyor. Alsancak, İzmir bölgesinde.",
+    "company": "Firma A",
+    "city": "İzmir",
+    "district": "Alsancak",
+    "location": {
+      "lat": 39.84029478433337,
+      "lon": 32.764709434966164
+    },
+    "required_skills": [
+      "Excel",
+      "Veri Analizi"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "Esnek",
+    "duration": "Sürekli",
+    "start_date": "2026-01-14",
+    "posted_date": "2026-01-02",
+    "is_active": true,
+    "employer_rating": 3.3,
+    "applicant_count": 12
+  },
+  {
+    "id": "J089",
+    "title": "Garsonluk - Konyaaltı",
+    "category": "Garsonluk",
+    "description": "Garsonluk pozisyonu için eleman aranıyor. Konyaaltı, Antalya bölgesinde.",
+    "company": "Firma X",
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "location": {
+      "lat": 39.8675603312819,
+      "lon": 32.78724872222493
+    },
+    "required_skills": [
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "10:00-18:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-28",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 3.7,
+    "applicant_count": 18
+  },
+  {
+    "id": "J090",
+    "title": "Anket Görevlisi - Beşiktaş",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma B",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 40.99214321165632,
+      "lon": 28.941456733688756
+    },
+    "required_skills": [
+      "Almanca",
+      "Excel"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "Esnek",
+    "duration": "1 gün",
+    "start_date": "2026-02-02",
+    "posted_date": "2026-01-05",
+    "is_active": false,
+    "employer_rating": 3.6,
+    "applicant_count": 5
+  },
+  {
+    "id": "J091",
+    "title": "Anket Görevlisi - Muratpaşa",
+    "category": "Anket Görevlisi",
+    "description": "Anket Görevlisi pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma C",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.98865294654428,
+      "lon": 32.867605751619074
+    },
+    "required_skills": [
+      "Almanca",
+      "İngilizce"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "10:00-18:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-13",
+    "posted_date": "2025-12-30",
+    "is_active": true,
+    "employer_rating": 3.9,
+    "applicant_count": 2
+  },
+  {
+    "id": "J092",
+    "title": "Eğitmenlik - Beşiktaş",
+    "category": "Eğitmenlik",
+    "description": "Eğitmenlik pozisyonu için eleman aranıyor. Beşiktaş, İstanbul bölgesinde.",
+    "company": "Firma A",
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 40.95783994870652,
+      "lon": 28.984559986182255
+    },
+    "required_skills": [
+      "İngilizce",
+      "İletişim"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-31",
+    "posted_date": "2026-01-01",
+    "is_active": true,
+    "employer_rating": 4.8,
+    "applicant_count": 1
+  },
+  {
+    "id": "J093",
+    "title": "Grafik Tasarım - Muratpaşa",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma Y",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.93846324104292,
+      "lon": 32.823087863553
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 125,
+    "working_hours": "09:00-17:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-10",
+    "posted_date": "2026-01-05",
+    "is_active": false,
+    "employer_rating": 3.3,
+    "applicant_count": 16
+  },
+  {
+    "id": "J094",
+    "title": "Kurye - Nilüfer",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma B",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.981822443345635,
+      "lon": 32.85601047318415
+    },
+    "required_skills": [
+      "Photoshop",
+      "Excel"
+    ],
+    "hourly_wage": 75,
+    "working_hours": "14:00-22:00",
+    "duration": "Sürekli",
+    "start_date": "2026-01-16",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 4.7,
+    "applicant_count": 4
+  },
+  {
+    "id": "J095",
+    "title": "Satış Danışmanı - Şişli",
+    "category": "Satış Danışmanı",
+    "description": "Satış Danışmanı pozisyonu için eleman aranıyor. Şişli, İstanbul bölgesinde.",
+    "company": "Firma C",
+    "city": "İstanbul",
+    "district": "Şişli",
+    "location": {
+      "lat": 40.98708511334654,
+      "lon": 28.953752996735908
+    },
+    "required_skills": [
+      "Excel",
+      "Müşteri Hizmetleri"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-20",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 4.4,
+    "applicant_count": 5
+  },
+  {
+    "id": "J096",
+    "title": "Kurye - Yıldırım",
+    "category": "Kurye",
+    "description": "Kurye pozisyonu için eleman aranıyor. Yıldırım, Bursa bölgesinde.",
+    "company": "Firma X",
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.95477996379622,
+      "lon": 32.79100437156337
+    },
+    "required_skills": [
+      "Müşteri Hizmetleri",
+      "Almanca"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "1 hafta",
+    "start_date": "2026-02-04",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 4.6,
+    "applicant_count": 19
+  },
+  {
+    "id": "J097",
+    "title": "Grafik Tasarım - Kızılay",
+    "category": "Grafik Tasarım",
+    "description": "Grafik Tasarım pozisyonu için eleman aranıyor. Kızılay, Ankara bölgesinde.",
+    "company": "Firma C",
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 39.9996852055276,
+      "lon": 32.91202527627035
+    },
+    "required_skills": [
+      "Photoshop",
+      "Grafik Tasarım"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "10:00-18:00",
+    "duration": "1 ay",
+    "start_date": "2026-01-10",
+    "posted_date": "2026-01-06",
+    "is_active": true,
+    "employer_rating": 3.1,
+    "applicant_count": 11
+  },
+  {
+    "id": "J098",
+    "title": "Çeviri - Muratpaşa",
+    "category": "Çeviri",
+    "description": "Çeviri pozisyonu için eleman aranıyor. Muratpaşa, Antalya bölgesinde.",
+    "company": "Firma A",
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.99877270651557,
+      "lon": 32.793667627262614
+    },
+    "required_skills": [
+      "İngilizce",
+      "Almanca"
+    ],
+    "hourly_wage": 100,
+    "working_hours": "10:00-18:00",
+    "duration": "1 gün",
+    "start_date": "2026-01-14",
+    "posted_date": "2026-01-08",
+    "is_active": true,
+    "employer_rating": 3.7,
+    "applicant_count": 15
+  },
+  {
+    "id": "J099",
+    "title": "Sosyal Medya Yönetimi - Kepez",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Kepez, Antalya bölgesinde.",
+    "company": "Firma Y",
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 40.02097635452167,
+      "lon": 32.81932442267605
+    },
+    "required_skills": [
+      "Sosyal Medya",
+      "Satış"
+    ],
+    "hourly_wage": 60,
+    "working_hours": "14:00-22:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-21",
+    "posted_date": "2026-01-04",
+    "is_active": true,
+    "employer_rating": 3.1,
+    "applicant_count": 14
+  },
+  {
+    "id": "J100",
+    "title": "Sosyal Medya Yönetimi - Nilüfer",
+    "category": "Sosyal Medya Yönetimi",
+    "description": "Sosyal Medya Yönetimi pozisyonu için eleman aranıyor. Nilüfer, Bursa bölgesinde.",
+    "company": "Firma X",
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 39.967583132690706,
+      "lon": 32.897836171661055
+    },
+    "required_skills": [
+      "Excel",
+      "Sosyal Medya"
+    ],
+    "hourly_wage": 150,
+    "working_hours": "10:00-18:00",
+    "duration": "1 hafta",
+    "start_date": "2026-01-16",
+    "posted_date": "2026-01-05",
+    "is_active": true,
+    "employer_rating": 3.1,
+    "applicant_count": 15
+  }
+]

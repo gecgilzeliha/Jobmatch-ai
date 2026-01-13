@@ -1,0 +1,92 @@
+{
+  "test@university.edu": {
+    "id": "U001",
+    "email": "test@university.edu",
+    "name": "Test User",
+    "created_at": "2026-01-08T11:26:02.027575",
+    "profile": {
+      "age": 21,
+      "city": "Istanbul",
+      "district": "Kadıköy",
+      "location": {
+        "lat": null,
+        "lon": null
+      },
+      "skills": [
+        "Python",
+        "JavaScript",
+        "React"
+      ],
+      "education_level": "Lisans",
+      "department": "Bilgisayar Mühendisliği",
+      "university": "",
+      "gpa": null,
+      "graduation_year": null,
+      "available_days": [
+        "Pazartesi",
+        "Çarşamba",
+        "Cuma"
+      ],
+      "available_hours": [],
+      "preferred_job_types": [
+        "Part-time",
+        "Remote"
+      ],
+      "preferred_categories": [],
+      "min_hourly_wage": 75,
+      "max_distance_km": 15,
+      "remote_preference": "",
+      "experience_months": 0,
+      "previous_jobs": [],
+      "languages": [],
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "portfolio": ""
+    },
+    "application_history": []
+  },
+  "asragecgil4@gmail.com": {
+    "id": "U002",
+    "email": "asragecgil4@gmail.com",
+    "name": "tombiklili",
+    "created_at": "2026-01-08T11:33:51.572792",
+    "profile": {
+      "age": 22,
+      "city": "Istanbul",
+      "district": "Kadıköy",
+      "location": {
+        "lat": null,
+        "lon": null
+      },
+      "skills": [
+        "python",
+        "designer"
+      ],
+      "education_level": "",
+      "department": "",
+      "university": "marmara üniversitesi",
+      "gpa": null,
+      "graduation_year": null,
+      "available_days": [],
+      "available_hours": [],
+      "preferred_job_types": [
+        "Part-time",
+        "Freelance",
+        "Internship"
+      ],
+      "preferred_categories": [],
+      "min_hourly_wage": 70,
+      "max_distance_km": 15,
+      "remote_preference": "Hybrid",
+      "experience_months": 0,
+      "previous_jobs": [],
+      "languages": [],
+      "phone": "",
+      "linkedin": "",
+      "github": "",
+      "portfolio": ""
+    },
+    "application_history": []
+  }
+}

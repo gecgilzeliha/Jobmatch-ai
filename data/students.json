@@ -1,0 +1,1801 @@
+[
+  {
+    "id": "S001",
+    "name": "Emre Çelik",
+    "email": "student1@university.edu",
+    "age": 20,
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 39.99671795142455,
+      "lon": 32.859598999852246
+    },
+    "skills": [
+      "Almanca",
+      "Organizasyon",
+      "Excel",
+      "Sosyal Medya"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.42,
+    "experience_months": 24,
+    "completed_jobs": 7,
+    "rating": 4.9,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Anket Görevlisi",
+        "Eğitmenlik",
+        "Sosyal Medya Yönetimi",
+        "Veri Girişi"
+      ]
+    }
+  },
+  {
+    "id": "S002",
+    "name": "Can Öztürk",
+    "email": "student2@university.edu",
+    "age": 26,
+    "city": "Antalya",
+    "district": "Muratpaşa",
+    "location": {
+      "lat": 39.87460813682487,
+      "lon": 32.93298586872078
+    },
+    "skills": [
+      "Veri Analizi",
+      "Organizasyon",
+      "Müşteri Hizmetleri",
+      "Python",
+      "Grafik Tasarım",
+      "Muhasebe"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.04,
+    "experience_months": 10,
+    "completed_jobs": 14,
+    "rating": 3.7,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Anket Görevlisi",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S003",
+    "name": "Can Aydın",
+    "email": "student3@university.edu",
+    "age": 21,
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.848377170432045,
+      "lon": 32.956251479785195
+    },
+    "skills": [
+      "Almanca",
+      "Photoshop",
+      "Java",
+      "İngilizce"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.16,
+    "experience_months": 18,
+    "completed_jobs": 14,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Garsonluk",
+        "Grafik Tasarım",
+        "Asistanlık",
+        "Çeviri",
+        "Eğitmenlik"
+      ]
+    }
+  },
+  {
+    "id": "S004",
+    "name": "Yağmur Aydın",
+    "email": "student4@university.edu",
+    "age": 21,
+    "city": "Ankara",
+    "district": "Ulus",
+    "location": {
+      "lat": 39.95080082258776,
+      "lon": 32.87182536707593
+    },
+    "skills": [
+      "Video Editing",
+      "Java",
+      "Muhasebe",
+      "Excel",
+      "İletişim"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 2.97,
+    "experience_months": 8,
+    "completed_jobs": 10,
+    "rating": 4.4,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Kurye",
+        "Satış Danışmanı",
+        "Sosyal Medya Yönetimi"
+      ]
+    }
+  },
+  {
+    "id": "S005",
+    "name": "Elif Öztürk",
+    "email": "student5@university.edu",
+    "age": 19,
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 40.01963743786094,
+      "lon": 32.91882351758568
+    },
+    "skills": [
+      "Sosyal Medya",
+      "İletişim",
+      "Photoshop"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.17,
+    "experience_months": 6,
+    "completed_jobs": 0,
+    "rating": 4.8,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Grafik Tasarım",
+        "Veri Girişi",
+        "Eğitmenlik",
+        "Anket Görevlisi"
+      ]
+    }
+  },
+  {
+    "id": "S006",
+    "name": "Deniz Aydın",
+    "email": "student6@university.edu",
+    "age": 26,
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 39.96249142177058,
+      "lon": 32.820847312852884
+    },
+    "skills": [
+      "Almanca",
+      "Grafik Tasarım",
+      "Muhasebe",
+      "İletişim",
+      "İngilizce"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 2.51,
+    "experience_months": 13,
+    "completed_jobs": 10,
+    "rating": 4.4,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Eğitmenlik",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S007",
+    "name": "Ahmet Öztürk",
+    "email": "student7@university.edu",
+    "age": 22,
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 39.84842641971251,
+      "lon": 32.86220473616104
+    },
+    "skills": [
+      "Veri Analizi",
+      "Sosyal Medya",
+      "Grafik Tasarım",
+      "Excel",
+      "Photoshop",
+      "İngilizce"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 2.67,
+    "experience_months": 21,
+    "completed_jobs": 9,
+    "rating": 4.2,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Eğitmenlik",
+        "Veri Girişi",
+        "Çeviri",
+        "Garsonluk",
+        "Grafik Tasarım"
+      ]
+    }
+  },
+  {
+    "id": "S008",
+    "name": "Yağmur Aydın",
+    "email": "student8@university.edu",
+    "age": 19,
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 40.00493640740761,
+      "lon": 32.770225960863215
+    },
+    "skills": [
+      "Almanca",
+      "Müşteri Hizmetleri",
+      "İletişim",
+      "Muhasebe"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.87,
+    "experience_months": 24,
+    "completed_jobs": 12,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Eğitmenlik",
+        "Anket Görevlisi",
+        "Çeviri",
+        "Veri Girişi",
+        "Kurye"
+      ]
+    }
+  },
+  {
+    "id": "S009",
+    "name": "Burak Aydın",
+    "email": "student9@university.edu",
+    "age": 18,
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.883272847433815,
+      "lon": 32.86495987684639
+    },
+    "skills": [
+      "Sosyal Medya",
+      "Photoshop",
+      "Almanca",
+      "Grafik Tasarım",
+      "Veri Analizi",
+      "Müşteri Hizmetleri",
+      "Java"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 2.14,
+    "experience_months": 8,
+    "completed_jobs": 0,
+    "rating": 3.9,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Eğitmenlik",
+        "Anket Görevlisi",
+        "Çeviri",
+        "Garsonluk",
+        "Grafik Tasarım"
+      ]
+    }
+  },
+  {
+    "id": "S010",
+    "name": "Mustafa Özkan",
+    "email": "student10@university.edu",
+    "age": 25,
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 39.95062157085557,
+      "lon": 32.866159292874286
+    },
+    "skills": [
+      "Organizasyon",
+      "İletişim",
+      "Photoshop",
+      "Veri Analizi",
+      "Grafik Tasarım"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.3,
+    "experience_months": 13,
+    "completed_jobs": 9,
+    "rating": 4.7,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Asistanlık",
+        "Satış Danışmanı",
+        "Sosyal Medya Yönetimi",
+        "Grafik Tasarım",
+        "Garsonluk"
+      ]
+    }
+  },
+  {
+    "id": "S011",
+    "name": "Elif Öztürk",
+    "email": "student11@university.edu",
+    "age": 19,
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 40.966611014056866,
+      "lon": 28.918490031444012
+    },
+    "skills": [
+      "Veri Analizi",
+      "Photoshop",
+      "Müşteri Hizmetleri",
+      "İletişim"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 3.97,
+    "experience_months": 22,
+    "completed_jobs": 13,
+    "rating": 4.2,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Veri Girişi",
+        "Eğitmenlik",
+        "Anket Görevlisi"
+      ]
+    }
+  },
+  {
+    "id": "S012",
+    "name": "Ahmet Öztürk",
+    "email": "student12@university.edu",
+    "age": 19,
+    "city": "Ankara",
+    "district": "Ulus",
+    "location": {
+      "lat": 39.98375015966428,
+      "lon": 32.796579822111674
+    },
+    "skills": [
+      "Veri Analizi",
+      "Video Editing",
+      "Sosyal Medya",
+      "Satış",
+      "Python"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.68,
+    "experience_months": 18,
+    "completed_jobs": 6,
+    "rating": 3.6,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Asistanlık",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S013",
+    "name": "Yağmur Çelik",
+    "email": "student13@university.edu",
+    "age": 18,
+    "city": "İstanbul",
+    "district": "Kadıköy",
+    "location": {
+      "lat": 40.97621764334038,
+      "lon": 29.02851978357512
+    },
+    "skills": [
+      "Video Editing",
+      "Muhasebe",
+      "Müşteri Hizmetleri"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.78,
+    "experience_months": 14,
+    "completed_jobs": 8,
+    "rating": 4.4,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Satış Danışmanı",
+        "Grafik Tasarım"
+      ]
+    }
+  },
+  {
+    "id": "S014",
+    "name": "Ece Demir",
+    "email": "student14@university.edu",
+    "age": 26,
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 39.9754400919577,
+      "lon": 32.91273331401779
+    },
+    "skills": [
+      "Veri Analizi",
+      "Python",
+      "Grafik Tasarım",
+      "Almanca",
+      "Excel"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.3,
+    "experience_months": 11,
+    "completed_jobs": 3,
+    "rating": 4.1,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Grafik Tasarım",
+        "Çeviri",
+        "Garsonluk"
+      ]
+    }
+  },
+  {
+    "id": "S015",
+    "name": "Burak Aydın",
+    "email": "student15@university.edu",
+    "age": 20,
+    "city": "İzmir",
+    "district": "Alsancak",
+    "location": {
+      "lat": 39.942647614064846,
+      "lon": 32.8108257448898
+    },
+    "skills": [
+      "Excel",
+      "Müşteri Hizmetleri",
+      "Organizasyon",
+      "Veri Analizi",
+      "Grafik Tasarım",
+      "İletişim",
+      "İngilizce"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 2.36,
+    "experience_months": 4,
+    "completed_jobs": 5,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Eğitmenlik",
+        "Çeviri",
+        "Garsonluk"
+      ]
+    }
+  },
+  {
+    "id": "S016",
+    "name": "Mustafa Arslan",
+    "email": "student16@university.edu",
+    "age": 21,
+    "city": "Bursa",
+    "district": "Nilüfer",
+    "location": {
+      "lat": 40.02622856707886,
+      "lon": 32.83381759812747
+    },
+    "skills": [
+      "Müşteri Hizmetleri",
+      "İngilizce",
+      "İletişim"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 2.84,
+    "experience_months": 4,
+    "completed_jobs": 14,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Çeviri",
+        "Veri Girişi",
+        "Asistanlık"
+      ]
+    }
+  },
+  {
+    "id": "S017",
+    "name": "Selin Aydın",
+    "email": "student17@university.edu",
+    "age": 24,
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.95612198022366,
+      "lon": 32.817255232424635
+    },
+    "skills": [
+      "Java",
+      "İletişim",
+      "Müşteri Hizmetleri",
+      "Photoshop"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 2.85,
+    "experience_months": 24,
+    "completed_jobs": 9,
+    "rating": 4.1,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Anket Görevlisi",
+        "Satış Danışmanı",
+        "Asistanlık",
+        "Çeviri",
+        "Veri Girişi"
+      ]
+    }
+  },
+  {
+    "id": "S018",
+    "name": "Mustafa Arslan",
+    "email": "student18@university.edu",
+    "age": 26,
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "location": {
+      "lat": 40.01960257800622,
+      "lon": 32.91039490239999
+    },
+    "skills": [
+      "Java",
+      "Excel",
+      "Almanca",
+      "Muhasebe",
+      "Organizasyon"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.86,
+    "experience_months": 14,
+    "completed_jobs": 6,
+    "rating": 4.4,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Kurye",
+        "Veri Girişi",
+        "Satış Danışmanı"
+      ]
+    }
+  },
+  {
+    "id": "S019",
+    "name": "Burak Koç",
+    "email": "student19@university.edu",
+    "age": 18,
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 39.900939417964615,
+      "lon": 32.77227446880829
+    },
+    "skills": [
+      "İngilizce",
+      "Almanca",
+      "Python",
+      "Java"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 3.72,
+    "experience_months": 8,
+    "completed_jobs": 11,
+    "rating": 4.5,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Garsonluk",
+        "Veri Girişi",
+        "Grafik Tasarım"
+      ]
+    }
+  },
+  {
+    "id": "S020",
+    "name": "Fatma Arslan",
+    "email": "student20@university.edu",
+    "age": 22,
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 40.012114158743664,
+      "lon": 32.92714915959033
+    },
+    "skills": [
+      "Grafik Tasarım",
+      "Organizasyon",
+      "Veri Analizi",
+      "İletişim",
+      "Photoshop",
+      "Python",
+      "İngilizce"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 3.99,
+    "experience_months": 18,
+    "completed_jobs": 14,
+    "rating": 4.0,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Garsonluk",
+        "Sosyal Medya Yönetimi",
+        "Satış Danışmanı",
+        "Eğitmenlik",
+        "Kurye"
+      ]
+    }
+  },
+  {
+    "id": "S021",
+    "name": "Ali Kaya",
+    "email": "student21@university.edu",
+    "age": 20,
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 40.014244908876975,
+      "lon": 32.830986820468816
+    },
+    "skills": [
+      "İngilizce",
+      "Python",
+      "Almanca",
+      "Müşteri Hizmetleri",
+      "Sosyal Medya",
+      "Veri Analizi"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 2.2,
+    "experience_months": 8,
+    "completed_jobs": 13,
+    "rating": 4.1,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Garsonluk",
+        "Satış Danışmanı"
+      ]
+    }
+  },
+  {
+    "id": "S022",
+    "name": "Mustafa Demir",
+    "email": "student22@university.edu",
+    "age": 20,
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.83995148236292,
+      "lon": 32.95075430319974
+    },
+    "skills": [
+      "Video Editing",
+      "Photoshop",
+      "Python",
+      "Organizasyon",
+      "Excel",
+      "Muhasebe",
+      "Sosyal Medya"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 2.11,
+    "experience_months": 21,
+    "completed_jobs": 10,
+    "rating": 3.8,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Sosyal Medya Yönetimi",
+        "Anket Görevlisi",
+        "Çeviri",
+        "Veri Girişi",
+        "Garsonluk"
+      ]
+    }
+  },
+  {
+    "id": "S023",
+    "name": "Ece Aydın",
+    "email": "student23@university.edu",
+    "age": 24,
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.96303036844869,
+      "lon": 32.850544269281386
+    },
+    "skills": [
+      "Almanca",
+      "Python",
+      "Sosyal Medya",
+      "İletişim",
+      "Müşteri Hizmetleri",
+      "Satış",
+      "Grafik Tasarım"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 3.52,
+    "experience_months": 14,
+    "completed_jobs": 11,
+    "rating": 3.9,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Satış Danışmanı",
+        "Kurye"
+      ]
+    }
+  },
+  {
+    "id": "S024",
+    "name": "Selin Çelik",
+    "email": "student24@university.edu",
+    "age": 18,
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.89887340834027,
+      "lon": 32.92650805593143
+    },
+    "skills": [
+      "Grafik Tasarım",
+      "Organizasyon",
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 2.73,
+    "experience_months": 10,
+    "completed_jobs": 2,
+    "rating": 4.2,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Kurye",
+        "Asistanlık",
+        "Garsonluk",
+        "Grafik Tasarım"
+      ]
+    }
+  },
+  {
+    "id": "S025",
+    "name": "Emre Çelik",
+    "email": "student25@university.edu",
+    "age": 24,
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 40.016916198412325,
+      "lon": 32.82749574205845
+    },
+    "skills": [
+      "Java",
+      "Muhasebe",
+      "İletişim",
+      "Satış"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.53,
+    "experience_months": 18,
+    "completed_jobs": 11,
+    "rating": 3.6,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Satış Danışmanı",
+        "Asistanlık",
+        "Eğitmenlik",
+        "Anket Görevlisi"
+      ]
+    }
+  },
+  {
+    "id": "S026",
+    "name": "Deniz Yılmaz",
+    "email": "student26@university.edu",
+    "age": 23,
+    "city": "İstanbul",
+    "district": "Şişli",
+    "location": {
+      "lat": 41.020190778793705,
+      "lon": 28.913729911982166
+    },
+    "skills": [
+      "Excel",
+      "Veri Analizi",
+      "Müşteri Hizmetleri"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.48,
+    "experience_months": 6,
+    "completed_jobs": 3,
+    "rating": 3.9,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Sosyal Medya Yönetimi",
+        "Eğitmenlik",
+        "Anket Görevlisi",
+        "Satış Danışmanı"
+      ]
+    }
+  },
+  {
+    "id": "S027",
+    "name": "Can Öztürk",
+    "email": "student27@university.edu",
+    "age": 20,
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.951534724452785,
+      "lon": 32.8133947057853
+    },
+    "skills": [
+      "İngilizce",
+      "Satış",
+      "Muhasebe"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.59,
+    "experience_months": 16,
+    "completed_jobs": 13,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Garsonluk",
+        "Sosyal Medya Yönetimi"
+      ]
+    }
+  },
+  {
+    "id": "S028",
+    "name": "Mustafa Aydın",
+    "email": "student28@university.edu",
+    "age": 24,
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.833861357961595,
+      "lon": 32.780096835207516
+    },
+    "skills": [
+      "Müşteri Hizmetleri",
+      "Sosyal Medya",
+      "Java",
+      "Organizasyon",
+      "Python",
+      "Almanca"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.41,
+    "experience_months": 1,
+    "completed_jobs": 14,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Grafik Tasarım",
+        "Sosyal Medya Yönetimi"
+      ]
+    }
+  },
+  {
+    "id": "S029",
+    "name": "Burak Şahin",
+    "email": "student29@university.edu",
+    "age": 18,
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.94816363296491,
+      "lon": 32.79921470850915
+    },
+    "skills": [
+      "Muhasebe",
+      "Organizasyon",
+      "İngilizce",
+      "İletişim",
+      "Grafik Tasarım",
+      "Satış"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 2.39,
+    "experience_months": 20,
+    "completed_jobs": 0,
+    "rating": 3.7,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Çeviri",
+        "Satış Danışmanı"
+      ]
+    }
+  },
+  {
+    "id": "S030",
+    "name": "Deniz Koç",
+    "email": "student30@university.edu",
+    "age": 24,
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 39.879792584623274,
+      "lon": 32.922829850813564
+    },
+    "skills": [
+      "Organizasyon",
+      "Satış",
+      "Almanca",
+      "İngilizce",
+      "Photoshop",
+      "Video Editing",
+      "Python"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.62,
+    "experience_months": 24,
+    "completed_jobs": 8,
+    "rating": 4.4,
+    "preferences": {
+      "min_hourly_wage": 75,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Grafik Tasarım",
+        "Sosyal Medya Yönetimi",
+        "Eğitmenlik",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S031",
+    "name": "Ayşe Kaya",
+    "email": "student31@university.edu",
+    "age": 26,
+    "city": "Bursa",
+    "district": "Yıldırım",
+    "location": {
+      "lat": 39.92312365990152,
+      "lon": 32.85704537474103
+    },
+    "skills": [
+      "Muhasebe",
+      "Müşteri Hizmetleri",
+      "İletişim",
+      "İngilizce"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.93,
+    "experience_months": 15,
+    "completed_jobs": 0,
+    "rating": 4.8,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Garsonluk",
+        "Veri Girişi",
+        "Satış Danışmanı"
+      ]
+    }
+  },
+  {
+    "id": "S032",
+    "name": "Ece Yılmaz",
+    "email": "student32@university.edu",
+    "age": 21,
+    "city": "İstanbul",
+    "district": "Beşiktaş",
+    "location": {
+      "lat": 41.01465697070936,
+      "lon": 28.891848646592372
+    },
+    "skills": [
+      "İngilizce",
+      "İletişim",
+      "Müşteri Hizmetleri"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.79,
+    "experience_months": 8,
+    "completed_jobs": 0,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Anket Görevlisi",
+        "Garsonluk",
+        "Satış Danışmanı",
+        "Sosyal Medya Yönetimi",
+        "Kurye"
+      ]
+    }
+  },
+  {
+    "id": "S033",
+    "name": "Mehmet Aydın",
+    "email": "student33@university.edu",
+    "age": 19,
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.90090224899238,
+      "lon": 32.95703593380073
+    },
+    "skills": [
+      "Muhasebe",
+      "Excel",
+      "İletişim",
+      "Sosyal Medya"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 2.78,
+    "experience_months": 16,
+    "completed_jobs": 5,
+    "rating": 3.9,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Veri Girişi",
+        "Garsonluk",
+        "Eğitmenlik",
+        "Grafik Tasarım",
+        "Asistanlık"
+      ]
+    }
+  },
+  {
+    "id": "S034",
+    "name": "Mustafa Öztürk",
+    "email": "student34@university.edu",
+    "age": 19,
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.95038245974477,
+      "lon": 32.81822767365426
+    },
+    "skills": [
+      "Muhasebe",
+      "Müşteri Hizmetleri",
+      "Satış",
+      "Organizasyon",
+      "İletişim"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.39,
+    "experience_months": 5,
+    "completed_jobs": 2,
+    "rating": 4.5,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Kurye",
+        "Anket Görevlisi"
+      ]
+    }
+  },
+  {
+    "id": "S035",
+    "name": "Fatma Öztürk",
+    "email": "student35@university.edu",
+    "age": 26,
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 40.0262047816438,
+      "lon": 32.84521464880973
+    },
+    "skills": [
+      "Müşteri Hizmetleri",
+      "Almanca",
+      "İletişim",
+      "Grafik Tasarım",
+      "Video Editing",
+      "Java"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.97,
+    "experience_months": 14,
+    "completed_jobs": 14,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Veri Girişi",
+        "Satış Danışmanı",
+        "Sosyal Medya Yönetimi"
+      ]
+    }
+  },
+  {
+    "id": "S036",
+    "name": "Ahmet Yılmaz",
+    "email": "student36@university.edu",
+    "age": 21,
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 39.86810635887333,
+      "lon": 32.85357407617973
+    },
+    "skills": [
+      "İletişim",
+      "Satış",
+      "Almanca",
+      "Photoshop",
+      "Excel",
+      "Veri Analizi"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 3.65,
+    "experience_months": 21,
+    "completed_jobs": 12,
+    "rating": 3.9,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Grafik Tasarım",
+        "Eğitmenlik",
+        "Asistanlık"
+      ]
+    }
+  },
+  {
+    "id": "S037",
+    "name": "Mehmet Şahin",
+    "email": "student37@university.edu",
+    "age": 26,
+    "city": "Ankara",
+    "district": "Çankaya",
+    "location": {
+      "lat": 39.838536821274346,
+      "lon": 32.878906485173374
+    },
+    "skills": [
+      "Satış",
+      "Excel",
+      "Sosyal Medya",
+      "Müşteri Hizmetleri"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 3.93,
+    "experience_months": 12,
+    "completed_jobs": 15,
+    "rating": 4.3,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Sosyal Medya Yönetimi",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S038",
+    "name": "Burak Kaya",
+    "email": "student38@university.edu",
+    "age": 22,
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "location": {
+      "lat": 39.96144889802551,
+      "lon": 32.94746909126925
+    },
+    "skills": [
+      "Grafik Tasarım",
+      "Muhasebe",
+      "Photoshop",
+      "Müşteri Hizmetleri",
+      "Java",
+      "Organizasyon",
+      "Video Editing"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.72,
+    "experience_months": 12,
+    "completed_jobs": 4,
+    "rating": 4.7,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Sosyal Medya Yönetimi",
+        "Çeviri",
+        "Kurye"
+      ]
+    }
+  },
+  {
+    "id": "S039",
+    "name": "Yağmur Öztürk",
+    "email": "student39@university.edu",
+    "age": 25,
+    "city": "Ankara",
+    "district": "Ulus",
+    "location": {
+      "lat": 39.95615103681676,
+      "lon": 32.892995127549206
+    },
+    "skills": [
+      "Sosyal Medya",
+      "Almanca",
+      "Video Editing",
+      "Photoshop",
+      "Veri Analizi",
+      "Müşteri Hizmetleri"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.15,
+    "experience_months": 19,
+    "completed_jobs": 13,
+    "rating": 4.1,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 15,
+      "preferred_categories": [
+        "Grafik Tasarım",
+        "Asistanlık",
+        "Garsonluk",
+        "Sosyal Medya Yönetimi",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S040",
+    "name": "Fatma Yılmaz",
+    "email": "student40@university.edu",
+    "age": 22,
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.87291376179775,
+      "lon": 32.77672725419075
+    },
+    "skills": [
+      "Organizasyon",
+      "Müşteri Hizmetleri",
+      "Grafik Tasarım",
+      "Almanca",
+      "Photoshop"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 2.28,
+    "experience_months": 11,
+    "completed_jobs": 9,
+    "rating": 4.2,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Kurye",
+        "Garsonluk"
+      ]
+    }
+  },
+  {
+    "id": "S041",
+    "name": "Zeynep Şahin",
+    "email": "student41@university.edu",
+    "age": 23,
+    "city": "Antalya",
+    "district": "Kepez",
+    "location": {
+      "lat": 39.943949427028805,
+      "lon": 32.91017316057886
+    },
+    "skills": [
+      "Sosyal Medya",
+      "Grafik Tasarım",
+      "Excel",
+      "Veri Analizi",
+      "Video Editing"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.99,
+    "experience_months": 12,
+    "completed_jobs": 6,
+    "rating": 4.8,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Sosyal Medya Yönetimi",
+        "Garsonluk",
+        "Satış Danışmanı"
+      ]
+    }
+  },
+  {
+    "id": "S042",
+    "name": "Selin Aydın",
+    "email": "student42@university.edu",
+    "age": 21,
+    "city": "Bursa",
+    "district": "Osmangazi",
+    "location": {
+      "lat": 40.018443994681775,
+      "lon": 32.82628672863227
+    },
+    "skills": [
+      "Grafik Tasarım",
+      "Photoshop",
+      "Java",
+      "Veri Analizi",
+      "Sosyal Medya",
+      "Muhasebe",
+      "Video Editing"
+    ],
+    "available_hours": [
+      "Hafta sonu"
+    ],
+    "gpa": 2.69,
+    "experience_months": 0,
+    "completed_jobs": 10,
+    "rating": 4.9,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Kurye",
+        "Garsonluk",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S043",
+    "name": "Ayşe Kaya",
+    "email": "student43@university.edu",
+    "age": 22,
+    "city": "Ankara",
+    "district": "Kızılay",
+    "location": {
+      "lat": 39.89756895502415,
+      "lon": 32.81816396766243
+    },
+    "skills": [
+      "Sosyal Medya",
+      "Müşteri Hizmetleri",
+      "Photoshop",
+      "Satış",
+      "Muhasebe"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.52,
+    "experience_months": 6,
+    "completed_jobs": 7,
+    "rating": 4.9,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Garsonluk",
+        "Satış Danışmanı",
+        "Anket Görevlisi",
+        "Sosyal Medya Yönetimi"
+      ]
+    }
+  },
+  {
+    "id": "S044",
+    "name": "Zeynep Şahin",
+    "email": "student44@university.edu",
+    "age": 19,
+    "city": "Ankara",
+    "district": "Keçiören",
+    "location": {
+      "lat": 39.928419332043084,
+      "lon": 32.86195025861215
+    },
+    "skills": [
+      "Grafik Tasarım",
+      "Müşteri Hizmetleri",
+      "Satış",
+      "İletişim",
+      "İngilizce",
+      "Java",
+      "Excel"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 2.04,
+    "experience_months": 12,
+    "completed_jobs": 1,
+    "rating": 4.2,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Eğitmenlik",
+        "Çeviri",
+        "Asistanlık",
+        "Garsonluk"
+      ]
+    }
+  },
+  {
+    "id": "S045",
+    "name": "Ece Kaya",
+    "email": "student45@university.edu",
+    "age": 25,
+    "city": "İzmir",
+    "district": "Bornova",
+    "location": {
+      "lat": 39.901008628550585,
+      "lon": 32.76485548920144
+    },
+    "skills": [
+      "Veri Analizi",
+      "Sosyal Medya",
+      "Python",
+      "Video Editing",
+      "Müşteri Hizmetleri",
+      "Grafik Tasarım"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 3.74,
+    "experience_months": 6,
+    "completed_jobs": 4,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 5,
+      "preferred_categories": [
+        "Asistanlık",
+        "Kurye"
+      ]
+    }
+  },
+  {
+    "id": "S046",
+    "name": "Deniz Yılmaz",
+    "email": "student46@university.edu",
+    "age": 23,
+    "city": "Antalya",
+    "district": "Konyaaltı",
+    "location": {
+      "lat": 39.93799410461354,
+      "lon": 32.816735311156314
+    },
+    "skills": [
+      "İletişim",
+      "Grafik Tasarım",
+      "Satış",
+      "Organizasyon",
+      "Veri Analizi",
+      "Java",
+      "Almanca"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 2.85,
+    "experience_months": 17,
+    "completed_jobs": 6,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Kurye",
+        "Satış Danışmanı"
+      ]
+    }
+  },
+  {
+    "id": "S047",
+    "name": "Ece Çelik",
+    "email": "student47@university.edu",
+    "age": 25,
+    "city": "İzmir",
+    "district": "Alsancak",
+    "location": {
+      "lat": 39.83875784486198,
+      "lon": 32.84230091720835
+    },
+    "skills": [
+      "Grafik Tasarım",
+      "Python",
+      "İngilizce",
+      "Almanca",
+      "Müşteri Hizmetleri",
+      "İletişim",
+      "Sosyal Medya"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 2.64,
+    "experience_months": 13,
+    "completed_jobs": 7,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Garsonluk",
+        "Grafik Tasarım",
+        "Çeviri"
+      ]
+    }
+  },
+  {
+    "id": "S048",
+    "name": "Can Yılmaz",
+    "email": "student48@university.edu",
+    "age": 25,
+    "city": "İstanbul",
+    "district": "Şişli",
+    "location": {
+      "lat": 40.93686297081232,
+      "lon": 28.968888094933256
+    },
+    "skills": [
+      "İletişim",
+      "Almanca",
+      "Python"
+    ],
+    "available_hours": [
+      "09:00-18:00"
+    ],
+    "gpa": 2.88,
+    "experience_months": 2,
+    "completed_jobs": 10,
+    "rating": 4.4,
+    "preferences": {
+      "min_hourly_wage": 60,
+      "max_distance_km": 20,
+      "preferred_categories": [
+        "Çeviri",
+        "Asistanlık",
+        "Anket Görevlisi",
+        "Garsonluk",
+        "Grafik Tasarım"
+      ]
+    }
+  },
+  {
+    "id": "S049",
+    "name": "Ali Özkan",
+    "email": "student49@university.edu",
+    "age": 24,
+    "city": "İzmir",
+    "district": "Karşıyaka",
+    "location": {
+      "lat": 39.98040613239115,
+      "lon": 32.92801300165154
+    },
+    "skills": [
+      "Almanca",
+      "Veri Analizi",
+      "Python",
+      "Müşteri Hizmetleri",
+      "Excel",
+      "İletişim",
+      "Satış"
+    ],
+    "available_hours": [
+      "14:00-18:00",
+      "18:00-22:00"
+    ],
+    "gpa": 3.79,
+    "experience_months": 4,
+    "completed_jobs": 6,
+    "rating": null,
+    "preferences": {
+      "min_hourly_wage": 100,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Grafik Tasarım",
+        "Eğitmenlik"
+      ]
+    }
+  },
+  {
+    "id": "S050",
+    "name": "Ahmet Koç",
+    "email": "student50@university.edu",
+    "age": 20,
+    "city": "İzmir",
+    "district": "Konak",
+    "location": {
+      "lat": 39.982132625714534,
+      "lon": 32.77268076895867
+    },
+    "skills": [
+      "Photoshop",
+      "Organizasyon",
+      "Müşteri Hizmetleri",
+      "Python",
+      "Video Editing",
+      "Excel",
+      "Grafik Tasarım"
+    ],
+    "available_hours": [
+      "09:00-13:00",
+      "14:00-18:00"
+    ],
+    "gpa": 3.77,
+    "experience_months": 8,
+    "completed_jobs": 13,
+    "rating": 3.6,
+    "preferences": {
+      "min_hourly_wage": 50,
+      "max_distance_km": 10,
+      "preferred_categories": [
+        "Veri Girişi",
+        "Satış Danışmanı",
+        "Eğitmenlik",
+        "Çeviri"
+      ]
+    }
+  }
+]
