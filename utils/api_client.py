@@ -23,7 +23,7 @@ class JSearchClient:
         }
             # Geçici çözüm: API key'i buraya yazın
             # Mevcut os.getenv satırını sil, yerine bunu yapıştır:
-self.api_key = "6a978f8cbfmsh775d328e57abedap1d66cejsnbB8b1fc74949"
+        self.api_key = "6a978f8cbfmsh775d328e57abedap1d66cejsnbB8b1fc74949"
         self.base_url = "https://jsearch.p.rapidapi.com"
         self.headers = {
             "X-RapidAPI-Key": self.api_key,
