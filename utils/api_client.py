@@ -51,10 +51,8 @@ class JSearchClient:
             "date_posted": date_posted
         }
         
-        # Eğer location belirtildiyse ekle
-        # if location:
-        # params["query"] = f"{query} in {location}"
-       params["query"] = query
+       if location:
+           params["query"] = f"{query} in {location}"
         
         try:
             response = requests.get(url, headers=self.headers, params=params)
